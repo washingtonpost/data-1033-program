@@ -1,0 +1,12 @@
+DEMIL IC,Description
+Blank,DEMIL code has not been reviewed by DCMO.
+0,DEMIL code reviewed by DCMO. Recommended DEMIL code and current ICP DEMIL code are not equal. Presently in collaboration cycle.                        
+1,"DEMIL code reviewed by DCMO, recommended DEMIL code adopted by ICP, or no DEMIL code change recommended."
+2,"DEMIL code reviewed by DCMO and accepted by ICP (DEMIL Integrity Code = 1) however, ICP has since overridden/changed code."
+3,Critical FSC/FSG MLI or Sensitive CCLI. Requires mutilation worldwide.
+4,DEMIL code could not be validated — insufficient technical data available.
+5,"(1) Item reviewed and coded by Service/Agency ICP - without DCMO collaboration; or, (2) Service/Agency ICP changed the DEMIL code prior to completion of IC–0 review/collaboration cycle."
+6,Non-Critical FSC/FSG MLI or Non-Sensitive CCLI. Requires mutilation overseas.
+7,Forced Concurrence. DCMO has forced a DEMIL code change in FLIS. ICP has not responded to collaboration request (over 90 days old) or failed to update the DEMIL code in the ICPs legacy system.
+8,ICP has non-concurred with a DCMO recommended DEMIL Code. Item DEMIL coding pending resolution.
+9,Reserved for future use.
