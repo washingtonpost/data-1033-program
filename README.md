@@ -1,7 +1,7 @@
-data-1033-program
+Department of Defense 1033 Program data
 =================
 
-This is a compilation of the raw data from the 1033 program thatwas released by the U.S. Department of Defense’s Defense Logistics Agency.
+This is a compilation of the raw data from the 1033 program that was released by the U.S. Department of Defense’s Defense Logistics Agency.
 
 "This law allows transfer of excess Department of Defense property that might otherwise be destroyed to law enforcement agencies across the United States and its territories," according to the site.
 
@@ -9,7 +9,7 @@ The data is current as of November 14, 2014. The Washington Post will strive to 
 
 If you have any questions, email Steven Rich at steven.rich@washpost.com.
 
-Data obtained from the FOIA Reading Room (http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx#1033).
+Data originally obtained from the FOIA Reading Room (http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx#1033).
 
 Notes:
 
