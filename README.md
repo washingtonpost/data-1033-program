@@ -9,7 +9,7 @@ The data is current as of September 30, 2015. The Washington Post will attempt t
 
 If you have any questions, email Steven Rich at steven.rich@washpost.com.
 
-Data originally obtained from the FOIA Reading Room (http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx#1033).
+Data originally obtained from the [FOIA Reading Room] (http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx#1033).
 
 Notes:
 
