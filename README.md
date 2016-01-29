@@ -15,6 +15,4 @@ Notes:
 
 According to the DoD, "Some of the items DLA transfers under the LESO program were purchased, in some cases, up to 50 years ago.  Therefore, the acquisition cost is the value of the item when it was last purchased."
 
-The Washington Post added a "Cost" column, multiplying the cost per unit by the number of units in a transfer. The Post has not yet added this to the most recent data.
-
 Lookup tables for demilitarization codes and demilitarization integrity codes are included and notes on demilitarization codes can be found here: http://www.dlis.dla.mil/demil/demil_codes.asp
